@@ -1,0 +1,161 @@
+.spoiler_body {
+	display:none;
+}
+.spoiler_links {
+	cursor:pointer;
+	padding-left: 20px;
+	font-family: 'Play', sans-serif;
+	font-size: 24px;
+}
+.spoiler_body {
+	font-family: 'Play', sans-serif;
+	font-size: 24px;
+	padding-top: 20px;
+}
+.spoiler {
+	margin-top: 50px;
+}
+.zayavki {
+	font-family: 'Play', sans-serif;
+	font-size: 15px;
+}
+.zayavki tr td {
+	padding-left: 40px;
+}
+.vxod {
+	margin: 0 auto;
+	font-family: 'Play', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+.vxod input[type=text]{
+	border: none;
+	border-radius: 10px;
+	width: 180px;
+	height: 35px;
+	color: #8C8C8C;
+	font-size: 18px;
+	text-align: center;
+}
+.vxod input[type=password]{
+	border: none;
+	border-radius: 10px;
+	width: 180px;
+	height: 35px;
+	color: #8C8C8C;
+	font-size: 18px;
+	text-align: center;
+}
+.vxod input[type=date]{
+	border: none;
+	border-radius: 10px;
+	width: 180px;
+	height: 35px;
+	color: #8C8C8C;
+	font-size: 18px;
+	text-align: center;
+}
+.vxod input[type=number]{
+	border: none;
+	border-radius: 10px;
+	width: 180px;
+	height: 35px;
+	color: #8C8C8C;
+	font-size: 18px;
+	text-align: center;
+}
+.select {
+	border: none;
+	border-radius: 10px;
+	width: 180px;
+	height: 35px;
+	color: #8C8C8C;
+	font-size: 18px;
+	text-align: center;
+}
+.blokimg {
+	position: relative;
+}
+.menufo {
+	height: 50px;
+	width: 600px;
+	font-weight:bold;
+	margin: 0 auto;
+}
+.menufo li {
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-left: 15px;  
+	list-style-type:none;
+	float: left;
+	font-family: 'Play', sans-serif;
+	font-size: 20px;
+	color: white;
+	text-transform: uppercase;
+	text-align:center;
+}
+.menufo li a {
+	color: white;
+	text-decoration: none;
+}
+.menufo a:hover {
+	color: red;
+}
+.vxod1 {
+	margin: 0 auto;
+	font-family: 'Play', sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+.vxod1 input[type=text]{
+	border: solid 1px #8C8C8C;
+	border-radius: 3px;
+	width: 180px;
+	height: 25px;
+	color: #8C8C8C;
+	font-family: 'Play', sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+.vxod1 textarea {
+	border-radius: 3px;
+	color: #8C8C8C;
+	font-family: 'Play', sans-serif;
+	font-size: 18px;
+}
+.add {
+	text-align: left;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-size: 18px;
+}
+.add input[type=text]{
+	border: solid 1px #8C8C8C;
+	border-radius: 3px;
+	width: 180px;
+	height: 25px;
+	color: #8C8C8C;
+	font-family: 'Play', sans-serif;
+	font-size: 18px;
+	text-align: center;	
+}
+.edit {
+	min-height: 500px;
+	text-align: center;
+	font-size: 20px;
+	margin: 0 auto;
+	font-family: 'Play', sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+.edit td {
+	height: 150px;
+	width: 150px;
+}
+.edit a:hover {
+	color: red;
+}
+.edit a {
+	color: #f0b91a;
+}
